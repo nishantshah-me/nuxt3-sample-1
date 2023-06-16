@@ -1,7 +1,16 @@
 <template>
     <div>
-        <h1 class="text-3xl font-bold underline">
+        <Navbar></Navbar>
+        <div>
+            <Cards></Cards>
+            <Cards></Cards>
+            <Cards></Cards>
+        </div>
+       
+        <h2>
             Hello world!
-        </h1>
+        </h2>
+        <hr class="hr"/>
+        <TablesTable></TablesTable>
     </div>
 </template>
