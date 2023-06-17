@@ -2718,7 +2718,7 @@ h6 {
 }
 
 .bg-\[url\(\'\.\.\/\.\.\/assets\/img\/ivancik\.jpg\'\)\] {
-  background-image: url('../../assets/img/ivancik.jpg');
+  background-image: url('assets/images/ivancik.jpg');
 }
 
 .bg-\[radial-gradient\(circle_at_bottom_right\2c \#3c9add\2c \#191452\)\] {
@@ -2846,11 +2846,11 @@ h6 {
 }
 
 .bg-\[url\(\'\.\.\/img\/vr-bg\.jpg\'\)\] {
-  background-image: url('../img/vr-bg.jpg');
+  background-image: url('assets/images/vr-bg.jpg');
 }
 
 .bg-\[url\(\'\.\.\/\.\.\/assets\/img\/img-1-1200x1000\.jpg\'\)\] {
-  background-image: url('../../assets/img/img-1-1200x1000.jpg');
+  background-image: url('assets/images/img-1-1200x1000.jpg');
 }
 
 .bg-\[url\(\'https\:\/\/raw\.githubusercontent\.com\/creativetimofficial\/public-assets\/master\/argon-dashboard-pro\/assets\/img\/reports1\.jpg\'\)\] {
