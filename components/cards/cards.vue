@@ -1,6 +1,6 @@
 <template>
 
-<div class="relative flex flex-col min-w-0 break-words bg-white shadow-xl dark:bg-slate-850 dark:shadow-dark-xl rounded-2xl bg-clip-border">
+<div class="relative flex flex-col max-w-xs mt-2 min-w-0 break-words bg-white shadow-xl dark:bg-slate-850 dark:shadow-dark-xl rounded-2xl bg-clip-border">
   <div class="flex-auto p-4">
     <div class="flex flex-row -mx-3">
       <div class="flex-none w-2/3 max-w-full px-3">

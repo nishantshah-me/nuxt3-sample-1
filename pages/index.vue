@@ -1,7 +1,9 @@
 <template>
     <div>
         <div>
-            <font-awesome-icon icon="fa-solid fa-user-secret" />
+            <i class="fa-solid cc-discover"></i>
+            <Icon name="uil:github" color="black" />
+
         </div>
 
         <Navbar></Navbar>
