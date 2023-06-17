@@ -226,8 +226,8 @@
         
         <a aria-expanded="false" nav-dropdown-trigger="authentication" role="button" class="flex items-center justify-between px-4 py-2 pl-2 text-sm font-normal text-white transition-all ease-in-out cursor-pointer select-none lg:group-hover:opacity-75 lg-max:text-slate-700 lg:px-2">
           Authentication
-          <img src="../../assets/img/down-arrow-white.svg" alt="down-arrow" class="hidden ml-1 lg:block">
-          <img src="../../assets/img/down-arrow-dark.svg" alt="down-arrow" class="block ml-1 lg:hidden">
+          <img src="assets/images/down-arrow-white.svg" alt="down-arrow" class="hidden ml-1 lg:block">
+          <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="block ml-1 lg:hidden">
         </a>
 
 
@@ -250,7 +250,7 @@
                 <li nav-nested-menu-trigger class="after:absolute after:content-[''] after:h-full after:left-full after:w-1/2 after:bottom-0 relative block p-0 bg-white border-0 rounded-t-lg">
                   <a class="select-none hover:text-slate-700 hover:bg-gray-200 flex w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit bg-transparent border-0 justify-between items-center mb-1 pl-4 rounded-lg lg:transition-colors lg:duration-300 lg:ease">
                     <span>Sign In</span>
-                    <img src="../../assets/img/down-arrow.svg" alt="down-arrow" class="lg:-rotate-90">
+                    <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="lg:-rotate-90">
                   </a>
                   <div nav-nested-menu class="z-100 hidden min-w-44 px-2 py-4 m-0 text-sm text-left list-none bg-white bg-clip-padding rounded-lg mt-0 static lg:cursor-pointer lg:shadow-3xl lg:transition-all lg:duration-250 lg:absolute lg:block lg:opacity-0 lg:origin-top lg:pointer-events-none lg:transform-dropdown-nested -right-50 left-auto top-0 lg:before:font-awesome lg:before:content-['\f0d8'] lg:before:absolute lg:before:top-0 lg:before:left-0 lg:before:right-auto lg:before:text-5.5 lg:before:text-white lg:before:transition-all lg:before:duration-350 lg:before:ease lg:before:-z-1 lg:before:-rotate-90">
                     <a class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 lg:transition-colors lg:duration-300 lg:ease rounded-lg mb-1" href="../../pages/authentication/signin/basic.html">
@@ -267,7 +267,7 @@
                 <li nav-nested-menu-trigger class="after:absolute after:content-[''] after:h-full after:left-full after:w-1/2 after:bottom-0 relative block p-0 bg-white border-0 ">
                   <a class="select-none hover:text-slate-700 hover:bg-gray-200 flex w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit bg-transparent border-0 justify-between items-center mb-1 pl-4 rounded-lg lg:transition-colors lg:duration-300 lg:ease">
                     <span>Sign Up</span>
-                    <img src="../../assets/img/down-arrow.svg" alt="down-arrow" class="lg:-rotate-90">
+                    <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="lg:-rotate-90">
                   </a>
                   <div nav-nested-menu class="z-100 hidden min-w-44 px-2 py-4 m-0 text-sm text-left list-none bg-white bg-clip-padding rounded-lg mt-0 static lg:cursor-pointer lg:shadow-3xl lg:transition-all lg:duration-250 lg:absolute lg:block lg:opacity-0 lg:origin-top lg:pointer-events-none lg:transform-dropdown-nested -right-50 left-auto top-0 lg:before:font-awesome lg:before:content-['\f0d8'] lg:before:absolute lg:before:top-0 lg:before:left-0 lg:before:right-auto lg:before:text-5.5 lg:before:text-white lg:before:transition-all lg:before:duration-350 lg:before:ease lg:before:-z-1 lg:before:-rotate-90">
                     <a class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 lg:transition-colors lg:duration-300 lg:ease rounded-lg mb-1" href="../../pages/authentication/signup/basic.html">
@@ -284,7 +284,7 @@
                 <li nav-nested-menu-trigger class="after:absolute after:content-[''] after:h-full after:left-full after:w-1/2 after:bottom-0 relative block p-0 bg-white border-0 ">
                   <a class="select-none hover:text-slate-700 hover:bg-gray-200 flex w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit bg-transparent border-0 justify-between items-center mb-1 pl-4 rounded-lg lg:transition-colors lg:duration-300 lg:ease">
                     <span>Reset Password</span>
-                    <img src="../../assets/img/down-arrow.svg" alt="down-arrow" class="lg:-rotate-90">
+                    <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="lg:-rotate-90">
                   </a>
                   <div nav-nested-menu class="z-100 hidden min-w-44 px-2 py-4 m-0 text-sm text-left list-none bg-white bg-clip-padding rounded-lg mt-0 static lg:cursor-pointer lg:shadow-3xl lg:transition-all lg:duration-250 lg:absolute lg:block lg:opacity-0 lg:origin-top lg:pointer-events-none lg:transform-dropdown-nested -right-50 left-auto top-0 lg:before:font-awesome lg:before:content-['\f0d8'] lg:before:absolute lg:before:top-0 lg:before:left-0 lg:before:right-auto lg:before:text-5.5 lg:before:text-white lg:before:transition-all lg:before:duration-350 lg:before:ease lg:before:-z-1 lg:before:-rotate-90">
                     <a class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 lg:transition-colors lg:duration-300 lg:ease rounded-lg mb-1" href="../../pages/authentication/reset/basic.html">
@@ -301,7 +301,7 @@
                 <li nav-nested-menu-trigger class="after:absolute after:content-[''] after:h-full after:left-full after:w-1/2 after:bottom-0 relative block p-0 bg-white border-0 ">
                   <a class="select-none hover:text-slate-700 hover:bg-gray-200 flex w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit bg-transparent border-0 justify-between items-center mb-1 pl-4 rounded-lg lg:transition-colors lg:duration-300 lg:ease">
                     <span>Lock</span>
-                    <img src="../../assets/img/down-arrow.svg" alt="down-arrow" class="lg:-rotate-90">
+                    <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="lg:-rotate-90">
                   </a>
                   <div nav-nested-menu class="z-100 hidden min-w-44 px-2 py-4 m-0 text-sm text-left list-none bg-white bg-clip-padding rounded-lg mt-0 static lg:cursor-pointer lg:shadow-3xl lg:transition-all lg:duration-250 lg:absolute lg:block lg:opacity-0 lg:origin-top lg:pointer-events-none lg:transform-dropdown-nested -right-50 left-auto top-0 lg:before:font-awesome lg:before:content-['\f0d8'] lg:before:absolute lg:before:top-0 lg:before:left-0 lg:before:right-auto lg:before:text-5.5 lg:before:text-white lg:before:transition-all lg:before:duration-350 lg:before:ease lg:before:-z-1 lg:before:-rotate-90">
                     <a class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 lg:transition-colors lg:duration-300 lg:ease rounded-lg mb-1" href="../../pages/authentication/lock/basic.html">
@@ -318,7 +318,7 @@
                 <li nav-nested-menu-trigger class="after:absolute after:content-[''] after:h-full after:left-full after:w-1/2 after:bottom-0 relative block p-0 bg-white border-0 ">
                   <a class="select-none hover:text-slate-700 hover:bg-gray-200 flex w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit bg-transparent border-0 justify-between items-center mb-1 pl-4 rounded-lg lg:transition-colors lg:duration-300 lg:ease">
                     <span>2-Step Verification</span>
-                    <img src="../../assets/img/down-arrow.svg" alt="down-arrow" class="lg:-rotate-90">
+                    <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="lg:-rotate-90">
                   </a>
                   <div nav-nested-menu class="z-100 hidden min-w-44 px-2 py-4 m-0 text-sm text-left list-none bg-white bg-clip-padding rounded-lg mt-0 static lg:cursor-pointer lg:shadow-3xl lg:transition-all lg:duration-250 lg:absolute lg:block lg:opacity-0 lg:origin-top lg:pointer-events-none lg:transform-dropdown-nested -right-50 left-auto top-0 lg:before:font-awesome lg:before:content-['\f0d8'] lg:before:absolute lg:before:top-0 lg:before:left-0 lg:before:right-auto lg:before:text-5.5 lg:before:text-white lg:before:transition-all lg:before:duration-350 lg:before:ease lg:before:-z-1 lg:before:-rotate-90">
                     <a class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 lg:transition-colors lg:duration-300 lg:ease rounded-lg mb-1" href="../../pages/authentication/verification/basic.html">
@@ -335,7 +335,7 @@
                 <li nav-nested-menu-trigger class="after:absolute after:content-[''] after:h-full after:left-full after:w-1/2 after:bottom-0 relative block p-0 bg-white border-0 rounded-b-lg">
                   <a class="select-none hover:text-slate-700 hover:bg-gray-200 flex w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit bg-transparent border-0 justify-between items-center mb-1 pl-4 rounded-lg lg:transition-colors lg:duration-300 lg:ease">
                     <span>Error</span>
-                    <img src="../../assets/img/down-arrow.svg" alt="down-arrow" class="lg:-rotate-90">
+                    <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="lg:-rotate-90">
                   </a>
                   <div nav-nested-menu class="z-100 hidden min-w-44 px-2 py-4 m-0 text-sm text-left list-none bg-white bg-clip-padding rounded-lg mt-0 static lg:cursor-pointer lg:shadow-3xl lg:transition-all lg:duration-250 lg:absolute lg:block lg:opacity-0 lg:origin-top lg:pointer-events-none lg:transform-dropdown-nested -right-50 left-auto top-0 lg:before:font-awesome lg:before:content-['\f0d8'] lg:before:absolute lg:before:top-0 lg:before:left-0 lg:before:right-auto lg:before:text-5.5 lg:before:text-white lg:before:transition-all lg:before:duration-350 lg:before:ease lg:before:-z-1 lg:before:-rotate-90">
                     <a class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 lg:transition-colors lg:duration-300 lg:ease rounded-lg mb-1" href="../../pages/authentication/error/404.html">
@@ -428,8 +428,8 @@
         
         <a aria-expanded="false" nav-dropdown-trigger="applications" role="button" class="flex items-center justify-between px-4 py-2 pl-2 text-sm font-normal text-white transition-all ease-in-out cursor-pointer select-none lg:group-hover:opacity-75 lg-max:text-slate-700 lg:px-2">
           Applications
-          <img src="../../assets/img/down-arrow-white.svg" alt="down-arrow" class="hidden ml-1 lg:block">
-          <img src="../../assets/img/down-arrow-dark.svg" alt="down-arrow" class="block ml-1 lg:hidden">
+          <img src="assets/images/down-arrow-white.svg" alt="down-arrow" class="hidden ml-1 lg:block">
+          <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="block ml-1 lg:hidden">
         </a>
 
 
@@ -534,7 +534,7 @@
                   </div>
                 </div>
               </a>
-              <a class="py-2 pl-4 rounded-lg" href="../../pages/applications/calendar.html">
+              <a class="py-2 pl-4 rounded-lg" href="#">
                 <div class="flex">
                   <div class="flex w-4 h-4 mt-1 mr-4 text-black fill-current stroke-none">
                     <i class="relative leading-none text-transparent ni ni-notification-70 bg-gradient-to-tl from-blue-500 to-violet-500 bg-clip-text z-1"></i>
@@ -555,8 +555,8 @@
         
         <a aria-expanded="false" nav-dropdown-trigger="ecommerce" role="button" class="flex items-center justify-between px-4 py-2 pl-2 text-sm font-normal text-white transition-all ease-in-out cursor-pointer select-none lg:group-hover:opacity-75 lg-max:text-slate-700 lg:px-2">
           Ecommerce
-          <img src="../../assets/img/down-arrow-white.svg" alt="down-arrow" class="hidden ml-1 lg:block">
-          <img src="../../assets/img/down-arrow-dark.svg" alt="down-arrow" class="block ml-1 lg:hidden">
+          <img src="assets/images/down-arrow-white.svg" alt="down-arrow" class="hidden ml-1 lg:block">
+          <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="block ml-1 lg:hidden">
         </a>
 
 
@@ -643,10 +643,10 @@
             <a href="../../pages/ecommerce/products/edit-product.html" class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 rounded-lg">
               Edit Product
             </a>
-            <a href="../../pages/ecommerce/products/product-page.html" class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 rounded-lg">
+            <a href="#" class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 rounded-lg">
               Product Page
             </a>
-            <a href="../../pages/ecommerce/products/products-list.html" class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 rounded-lg">
+            <a href="#" class="hover:text-slate-700 hover:bg-gray-200 block w-full px-4 py-1.2 clear-both font-normal text-slate-500 text-align-inherit whitespace-nowrap bg-transparent border-0 rounded-lg">
               Products List
             </a>
           </div>
@@ -660,8 +660,8 @@
         
         <a aria-expanded="false" nav-dropdown-trigger="docs" role="button" class="flex items-center justify-between px-4 py-2 pl-2 text-sm font-normal text-white transition-all ease-in-out cursor-pointer select-none lg:group-hover:opacity-75 lg-max:text-slate-700 lg:px-2">
           Docs
-          <img src="../../assets/img/down-arrow-white.svg" alt="down-arrow" class="hidden ml-1 lg:block">
-          <img src="../../assets/img/down-arrow-dark.svg" alt="down-arrow" class="block ml-1 lg:hidden">
+          <img src="assets/images/down-arrow-white.svg" alt="down-arrow" class="hidden ml-1 lg:block">
+          <img src="assets/images/down-arrow-dark.svg" alt="down-arrow" class="block ml-1 lg:hidden">
         </a>
 
 
