@@ -5,6 +5,9 @@ export default defineNuxtConfig({
   css: [
     '/assets/css/main.css',
     '@fortawesome/fontawesome-svg-core/styles.css'
-  ]
+  ],
+  routeRules: {
+    '/github': { redirect: 'https://github.com/hexafoldtech' },
+},
 
 })
