@@ -17,6 +17,8 @@
             Hello world!
         </h2>
         <hr class="hr"/>
+        <TablesBootstrapTable />
+        <hr class="hr"/>
         <TablesTable></TablesTable>
     </div>
 </template>
